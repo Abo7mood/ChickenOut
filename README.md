@@ -29,6 +29,9 @@ Welcome to **ChickenOut**! 🐔🔫 This is a **multiplayer party game** develop
 ## 🛠️ Additional Information 🛠️
 
 - **Team Note**: This game was created by a team of six developers for a Saudi competition, but unfortunately, it was not submitted on time.
+- **Status**: The game is not ready to play yet and is still under development.
+
+- **Team Note**: This game was created by a team of six developers for a Saudi competition, but unfortunately, it was not submitted on time.
 
 - **Made with Unity**: Developed using Unity Engine for seamless cross-platform functionality.
 - **Unique Gameplay**: Combines the simplicity of rock-paper-scissors with dynamic shooting mechanics.
