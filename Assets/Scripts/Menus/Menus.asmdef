@@ -1,0 +1,22 @@
+{
+    "name": "Menus",
+    "rootNamespace": "ChickenOut.Menus",
+    "references": [
+        "GUID:f4ff8db1870b129439e89cebe2c10178",
+        "GUID:46454265287a4b545a31f71f2fec6e3c",
+        "GUID:783d8b7dfc4cae746aa8983ce1b1b927",
+        "GUID:d4f8f3098ca064117a9b67941bfedd91",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

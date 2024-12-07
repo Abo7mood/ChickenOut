@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 581579c6ea75ea049847ff345195a44f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8861863936
+    m_Localized: 'Sound
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28370170892288
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28435308433408
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28647036899328
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28681732182016
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29874982309888
+    m_Localized: Join Match
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30194433085440
+    m_Localized: Rooms List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30691135148032
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71846702960640
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71974360797184
+    m_Localized: Online
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742306864254976
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742496937529344
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742761287733248
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223769090183168
+    m_Localized: You can also make a dash by quickly moving the joystick left and
+      right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223857673883648
+    m_Localized: RoomList
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224178634608640
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224467072700416
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224924247642112
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3225630425829376
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226243645657088
+    m_Localized: Game Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226435065303040
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226610278158336
+    m_Localized: Fight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226756827140096
+    m_Localized: Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227686377181184
+    m_Localized: '     Movement:
+
+      The stick can move left and right and up
+      to jump:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227898432802816
+    m_Localized: You have rock, paper and scissors for damage the enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3228141564022784
+    m_Localized: "MAIN    \n    MENU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3757972307398656
+    m_Localized: LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3758091295608832
+    m_Localized: 'Room Name '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3758585384620032
+    m_Localized: 'Connecting...
+
+      Try again after couple of seconds'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3758997181386752
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3759240924975104
+    m_Localized: 'The stick can move left and right and up to jump:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3760298803941376
+    m_Localized: When (ShootOnRelsease) is on your weapon will fire only when let
+      go of the joystick, otherwise it'll fire as soon as you move it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3760434246406144
+    m_Localized: 'Selecting ends In '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3760632846700544
+    m_Localized: 'Type: 3 Bullet
+
+      Speed: Normal
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3761075123474432
+    m_Localized: 'Type: 1 Bullet
+
+      Speed: Fast
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3761647968931840
+    m_Localized: 'Type: 3 Bullet
+
+      Speed: Normal
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3762137016389632
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3762359587131392
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3762624071553024
+    m_Localized: Private Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3762796356784128
+    m_Localized: 'Sound
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3763022878560256
+    m_Localized: Create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3763159092776960
+    m_Localized: Join a game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3763354807390208
+    m_Localized: Create Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3770151823822848
+    m_Localized: Max Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4064489124859904
+    m_Localized: Arabic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4064491041656832
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4065795642167296
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4349590987542528
+    m_Localized: Choose room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4350845478703104
+    m_Localized: Enable SuperBurger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4350847349362688
+    m_Localized: Enable JackBox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4350846812491776
+    m_Localized: Enable Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4357928169181184
+    m_Localized: Starting match
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4358898391388160
+    m_Localized: Selecting ends in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4390734878035968
+    m_Localized: Room name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4391020950540288
+    m_Localized: Username
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4391451869138944
+    m_Localized: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4391952576761856
+    m_Localized: Enter room's name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4396349763440640
+    m_Localized: Winner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4450724921823232
+    m_Localized: "       You have a stone, paper and \nscissors to injure the opponent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4450947492564992
+    m_Localized: Possess armor that can be changed to protect the armor of three
+      types Armor for Stone Armor for Paper Armor for Scissors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4451108964880384
+    m_Localized: "       You have a stone, paper and \r\nscissors to injure the opponent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867089457090560
+    m_Localized: 'ShootOnRelsease
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6868628078772224
+    m_Localized: Loser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6929078782988288
+    m_Localized: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6929085649063936
+    m_Localized: Change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6933816190636032
+    m_Localized: 'Back
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7017342525181952
+    m_Localized: 'MovementSettings
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7019132448608256
+    m_Localized: Shoot Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12467223142273024
+    m_Localized: 'Credit
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12965221911695360
+    m_Localized: 'Select Gamemode
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16251065329508352
+    m_Localized: Reconnect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17289274055114752
+    m_Localized: Before page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17289480138047488
+    m_Localized: Next page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17290487542759424
+    m_Localized: In team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17290684003958784
+    m_Localized: Not in team
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

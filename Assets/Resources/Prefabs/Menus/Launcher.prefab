@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &514818768792636004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 514818768792636002}
+  - component: {fileID: 514818768792636005}
+  m_Layer: 0
+  m_Name: Launcher
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &514818768792636002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 514818768792636004}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &514818768792636005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 514818768792636004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96569cb388d955c4b9978898923cae6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameVersion: 0.0.3.3
+  _usernameField: {fileID: 0}
+  _roomNameField: {fileID: 0}
+  _mainTab: {fileID: 0}
+  _roomsTab: {fileID: 0}
+  _createTab: {fileID: 0}
+  _matchmakingTab: {fileID: 0}
+  reconnectButton: {fileID: 0}
+  _roomButton: {fileID: 992006211912631074, guid: ec8c931b56eb82a44b15a7843cd63eb5, type: 3}
+  _currentPlayersCount: {fileID: 0}
+  _connectionState: {fileID: 0}
+  roomnameField: {fileID: 0}
+  multiplayerScene: 2
+  currentScene: 0
+  notificationText: {fileID: 0}
+  _currentGamemodeName: {fileID: 0}
+  _currentGameModeDescription: {fileID: 0}
+  notification: {fileID: 0}
+  gameModeHolderPrefab: {fileID: 4375239253157490161, guid: 664930afcbc48ee45b44b1965cb95200, type: 3}
+  gameModes:
+  - {fileID: 11400000, guid: 6b909b25945b912468529e6ae56fa76e, type: 2}
+  - {fileID: 11400000, guid: 94b4570505ce65f41a049de8acf234e6, type: 2}
+  movementAnalogCheckmark: {fileID: 0}
+  movementArrowCheckmark: {fileID: 0}
+  shootAnalogCheckmark: {fileID: 0}
+  shootButtonsCheckmark: {fileID: 0}
+  _transitionAnimator: {fileID: 0}
+  GameModesSprites: []
+  globalVersionNotification: {fileID: 0}
+  globalVersionText: {fileID: 0}

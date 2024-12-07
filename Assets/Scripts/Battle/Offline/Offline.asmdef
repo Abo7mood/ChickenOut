@@ -1,0 +1,20 @@
+{
+    "name": "Offline",
+    "rootNamespace": "ChickenOut.Battle.Offline",
+    "references": [
+        "GUID:f4ff8db1870b129439e89cebe2c10178",
+        "GUID:46454265287a4b545a31f71f2fec6e3c",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

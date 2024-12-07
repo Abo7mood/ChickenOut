@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OPS.Serialization.Yaml</name>
+    </assembly>
+    <members>
+        <member name="P:OPS.Serialization.Yaml.AYamlNode.Indent">
+            <summary>
+            Count of indent for this object. (Does not count the amount spaces!)
+            </summary>
+        </member>
+        <member name="P:OPS.Serialization.Yaml.AYamlNode.Key">
+            <summary>
+            The key of this object.
+            </summary>
+        </member>
+        <member name="T:OPS.Serialization.Yaml.SimpleParser">
+            <summary>
+            Very simple parser for Yaml values.
+            </summary>
+        </member>
+        <member name="M:OPS.Serialization.Yaml.SimpleParser.ParseSingleLine(System.String,System.Int32)">
+            <summary>
+            Parse a simple yaml line to a YamlContext.
+            </summary>
+            <param name="_Yaml"></param>
+            <param name="_Indent"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OPS.Serialization.Yaml.SimpleParser.ParseDictionary(System.String)">
+            <summary>
+            Parses a Yaml String of Key Value Pairs '{ Key: Value, ... }' to a 'String (Key), String (Value)' Dictionary.
+            </summary>
+            <param name="_Yaml"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OPS.Serialization.Yaml.SimpleParser.ParseValue(System.String)">
+            <summary>
+            Parses an String _Value of format 'Value' in a String.
+            </summary>
+            <param name="_Yaml"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

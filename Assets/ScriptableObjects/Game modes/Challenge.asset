@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 471930ae823ad174c9774318867fb34f, type: 3}
+  m_Name: Challenge
+  m_EditorClassIdentifier: 
+  _myName: Challenge
+  _myDescription: mode with everything enabled
+  _mySprite: {fileID: 0}
+  currentType: 0
+  _myTypes: {fileID: 11400000, guid: 9d7fbd5ee08caf442873f4ca48b74502, type: 2}
+  _gunsInfo: {fileID: 11400000, guid: a40c895bb4276d14c9444add714cfd85, type: 2}
+  _timersInfo: {fileID: 11400000, guid: 9fcd954dfc4245142aac54e7cc1b9aca, type: 2}
+  _itemsInfo: {fileID: 11400000, guid: 49a9f2b6b16bcb447bcbc00fe83b4422, type: 2}
+  _jackBoxInfo: {fileID: 11400000, guid: 5d91f7f9e3aafba4880b8bd86acc7d44, type: 2}
+  _superBurgerInfo: {fileID: 11400000, guid: 8afc73181f799504493d6104465efc25, type: 2}
+  _explosionInfo: {fileID: 11400000, guid: e5dd7bf889978384c85c67272ac08c19, type: 2}
+  _chickenInfo: {fileID: 11400000, guid: 7ac5b5a13bdc0ff48a66f0d4b2d42587, type: 2}
+  _movementInfo: {fileID: 11400000, guid: 59eecb753cff9974c904bb06551c2ee7, type: 2}
+  _combaterInfo: {fileID: 11400000, guid: 1768c5ea07aac354c8da0f03d46b8040, type: 2}

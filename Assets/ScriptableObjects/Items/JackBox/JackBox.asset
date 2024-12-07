@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d78f48babce61a544904c896a483151b, type: 3}
+  m_Name: JackBox
+  m_EditorClassIdentifier: 
+  myName: JackBox
+  description: Jail a chicken for 2 seconds
+  duration: 2
+  sprite: {fileID: 5938772802153466735, guid: a75c1667e7590914ca0fe109535a10f3, type: 3}
+  type: 7
+  animator: {fileID: 22100000, guid: 5b19460bef8ed294fa9cf7ca097bef80, type: 2}

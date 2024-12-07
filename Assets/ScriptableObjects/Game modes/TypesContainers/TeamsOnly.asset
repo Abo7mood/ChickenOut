@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e071265c707ec114bb2d2a80dda5039a, type: 3}
+  m_Name: TeamsOnly
+  m_EditorClassIdentifier: 
+  _types:
+  - {fileID: 11400000, guid: 13a68048ca75b5444ad7ac086a00a67c, type: 2}
