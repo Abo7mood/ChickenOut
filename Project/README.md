@@ -67,4 +67,4 @@ Though we didn’t make it to the finish line, the entire journey was an incredi
 # 🎮 Demo 🎮
 --------------------------
 
-Unfortunately, there is no demo for this game.
+You will find the game folder PC version here in this directory : /Game
