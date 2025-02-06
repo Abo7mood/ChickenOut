@@ -2,6 +2,14 @@
 
 Welcome to **ChickenOut**! 🐔🔫 This is a **multiplayer party game** developed in Unity, combining the fun of classic games like rock-paper-scissors with dynamic action elements like shooting and dodging. Designed for both **mobile** and **PC**, this 2D game delivers chaotic and strategic gameplay with exciting abilities and mechanics.
 
+![Game Preview](https://i.postimg.cc/7h9SjfSV/2024-12-11-112709.png)
+
+## 🎮 Gameplay Details 🎮
+
+- **Operating System**: Web/Mobile 🖥️ 📱
+- **Controls**: Mouse and Keyboard 🖱️⌨️ or Mobile 📱
+- **Game Type**: 2D Game 🌍
+
 ## 🌟 Key Features 🌟
 
 - **Rock-Paper-Scissors with a Twist**: Players choose between three options (rock, paper, scissors), but instead of just winning by choice, you can **shoot opponents** or **dodge attacks**! 🔫
@@ -46,3 +54,17 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
+# Story of this game 📖
+--------------------------
+
+
+This game was developed for a **prestigious competition in Saudi Arabia** with a grand prize of **$150,000**. Unfortunately, I can’t recall the name of the competition, but it stands out as a significant milestone in my journey. The development time was set to just **two months**, and despite our best efforts, we were unable to complete it on time.
+
+This project was particularly special because it marked my first experience working with a **team of 8 talented individuals**, including **6 developers** and dedicated **artists and sound designers**. Collaborating with such a diverse team allowed me to grow both professionally and personally, as we tackled challenges together and brought creative ideas to life.
+
+Though we didn’t make it to the finish line, the entire journey was an incredible learning experience. It not only sharpened my technical skills but also gave me a deep appreciation for teamwork and the collaborative spirit required to create something amazing. In the end, it was an unforgettable experience that I cherish deeply.
+
+# 🎮 Demo 🎮
+--------------------------
+
+Unfortunately, there is no demo for this game.
