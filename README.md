@@ -67,4 +67,4 @@ Though we didn’t make it to the finish line, the entire journey was an incredi
 # 🎮 Demo 🎮
 --------------------------
 
-Unfortunately, there is no demo for this game.
+/Game
