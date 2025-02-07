@@ -30,12 +30,7 @@ This game was developed by a team of six developers as part of a Saudi competiti
 
 ## 🚀 Installation 🚀
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Abo7mood/ChickenOut.git
-   ```
-2. Open the project in Unity (version 2020.3.24f).
-3. Build and run the project on your desired platform (PC or mobile).
+sorry but there is no source code
 
 ## 🛠️ Additional Information 🛠️
 
@@ -95,12 +90,7 @@ You will find the game folder PC version here in this directory: **/Game**
 
 ## 🚀 تثبيت اللعبة 🚀
 
-1. حمل المشروع:
-   ```bash
-   git clone https://github.com/Abo7mood/ChickenOut.git
-   ```
-2. افتح المشروع في Unity (الإصدار 2020.3.24f).
-3. ابني وشغل اللعبة على المنصة اللي تبيها (PC أو موبايل).
+اعتذر بس الكود المصدري للمشروع مقدر اشاركه
 
 ## 🛠️ معلومات إضافية 🛠️
 
